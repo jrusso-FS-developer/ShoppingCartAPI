@@ -1,0 +1,13 @@
+flask
+flask_restx
+OAuth
+authlib
+requests
+pyjwt
+python-dotenv
+python-jose
+flask-cors
+six
+auth0-python
+pymongo
+fastapi[all]
